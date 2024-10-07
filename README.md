@@ -1,1 +1,6 @@
-# ai_ideas_and_predictions
+# Anna's AI Ideas and Predictions 
+
+I kept getting ideas of things that we will use AI for in the future. And then I thought to myself "I could make a public repository on GitHub where I list them and add the date I thought of them". And since it is version controlled with Git it will be obvious from the commits as well when I decided to share these ideas! 
+
+- 07//10/2024 Any apps like Whatsapp that will have voice message data, will in the future be able to read text messages to people out loud in our voice. 
+- 07/10/2024 There will be AIs for a particular location. For example, an AI for people living in X city. Or perhaps multiple AIs for these locations. And those AIs will be able to organize information about that location. For example, if someone has a free room in that location and someone is looking for a room then the AI would have this information and people would be able to interface with it in order to find out this information. Sort of in the same way that Facebook groups at the moment are ways of finding short term (and sometimes long term) accomodation in big European cities. AIs will help organize this kind of information in an easier way. 
